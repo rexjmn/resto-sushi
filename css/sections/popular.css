@@ -5,7 +5,7 @@
     background-attachment: var(--primary-color);
     background-image: url(/assets/sushi_assets/assets/popular_bg.png);
     background-position: center;
-    background-repeat: no-repeat;
+    
     background-size: contain;
     overflow: hidden;
 
@@ -44,6 +44,8 @@
     font-family: var(--plus-jakarta-sans);
     color: #fff;
     cursor: pointer;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .popular-foods__filter-btn img {
