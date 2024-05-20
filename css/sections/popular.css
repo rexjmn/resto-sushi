@@ -2,7 +2,7 @@
     padding: 64px;
     display: flex;
     flex-direction: column;
-    background: var
+    background: var (--primary-color);
     background-image: url(assets/sushi_assets/assets/popular_bg.png);
     background-position: center;
     
